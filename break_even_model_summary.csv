@@ -1,0 +1,6 @@
+matrix_size,model_crossover_scans,predicted_first_tested_win,observed_first_tested_win,thresholds_match,leave_one_scan_count_out_correct,leave_one_scan_count_out_total
+128,1.16,2,2,true,4,5
+256,2.69,4,4,true,5,5
+512,4.92,8,8,true,5,5
+1024,5.93,8,8,true,5,5
+2048,13.85,16,16,true,5,5
