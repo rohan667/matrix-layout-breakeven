@@ -2,10 +2,6 @@
 
 > Python benchmark and simple timing model for testing when a matrix layout copy pays off for repeated NumPy column sums.
 
-**GitHub description:** Python benchmark and simple break-even timing model for repeated NumPy column sums across matrix memory layouts.
-
-**Suggested topics:** `python`, `numpy`, `benchmark`, `memory-layout`, `computer-architecture`, `performance`
-
 This beginner-friendly Python project measures how many repeated column sums it takes before converting a row-major matrix to column-major storage repays the one-time copy cost.
 
 ## What the code does
